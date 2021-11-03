@@ -94,7 +94,7 @@ export class HomeComponent implements OnInit {
     //this.goals.push(this.goalText);
 
     // var mytoken = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6InVzZXJuYW1lIiwiZXhwIjoxNjM1Mzc3NTQ1LCJvcmlnSWF0IjoxNjM1Mzc3MjQ1fQ._51yfCRUn1hHc554zyGGYJSJ_7v46jS_YJN6Mb063VQ";
-    var mytoken = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6Ikx1aXNtIiwiZXhwIjoxNjM1ODczNDI0LCJvcmlnSWF0IjoxNjM1ODczMTI0fQ.N75fb149XNsrDW2HZmsXa89K9BGdz1iJbnnKqUNYIzg";
+    var mytoken = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VybmFtZSI6Ikx1aXNFbnJpcXVlIiwiZXhwIjoxNjM1OTczMjg4LCJvcmlnSWF0IjoxNjM1OTcyOTg4fQ.xH60Er5gpV6OC3ifeiUb4h6S0HxgHWoZ8HrQtJYB9vg";
     //this.storageService.getSession("token");
     alert(this.goalText);
 
